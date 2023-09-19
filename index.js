@@ -1,6 +1,10 @@
 // index.js
 // where your node app starts
 
+// This is the example Timestamp Microservice that we are duplicating
+// https://timestamp-microservice.freecodecamp.rocks/api/
+// Below is my implementation of the example 
+
 // init project
 var express = require('express');
 var app = express();
